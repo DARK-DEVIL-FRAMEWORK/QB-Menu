@@ -1,4 +1,4 @@
-# qb-menu
+# QB-menu
 Menu System for the QBCore Framework
 ![image](https://cdn.discordapp.com/attachments/1231532206514634804/1231532207110230089/menu.png?ex=671cb1be&is=671b603e&hm=2eef01068edd13b89119bbc3a987ac8c941983cf75f7aa6ecc1c74e2e287d493&)
 
