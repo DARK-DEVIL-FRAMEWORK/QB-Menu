@@ -2,7 +2,7 @@
 # qb-menu
 Menu System for the QBCore FrameWork
 
-[image](https://cdn.discordapp.com/attachments/1231532206514634804/1231532207110230089/menu.png?ex=672b323e&is=6729e0be&hm=ed61d6fbb33778faeab3c52e10e1aab92c29cb9aaf2569c36d2e0e049237f18f&)
+![image](https://cdn.discordapp.com/attachments/1231532206514634804/1231532207110230089/menu.png?ex=672b323e&is=6729e0be&hm=ed61d6fbb33778faeab3c52e10e1aab92c29cb9aaf2569c36d2e0e049237f18f&).
 
 --[[
 EXAMPLE MENU
