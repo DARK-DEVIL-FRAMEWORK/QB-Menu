@@ -2,7 +2,7 @@
 # qb-menu
 Menu System for the QBCore FrameWork
 
-**-[image] - qb-menu/menu (1).png**
+**• [image] - qb-menu/menu (1).png**
 
 --[[
 EXAMPLE MENU
